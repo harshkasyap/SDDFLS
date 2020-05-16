@@ -1,3 +1,4 @@
 .local
 .ipynb_checkpoints/
 data/
+*.h5
