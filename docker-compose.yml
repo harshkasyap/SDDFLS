@@ -1,0 +1,8 @@
+version: "2.1"
+services:
+    pysyft:
+        image: openmined/pysyft-notebook
+        ports: 
+            - "8888:8888"
+        volumes:
+            - /Users/harshkasyap/Desktop/Experiments/SDDFLS:/workspace
