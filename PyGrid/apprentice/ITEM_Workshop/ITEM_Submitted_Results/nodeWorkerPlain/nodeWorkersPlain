@@ -1,0 +1,1018 @@
+2020-06-23 09:03:03,838 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.234396
+2020-06-23 09:03:10,307 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:03:10,987 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.466715
+2020-06-23 09:03:16,608 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.221794
+2020-06-23 09:03:22,516 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:03:23,608 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.269256
+2020-06-23 09:03:29,432 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.382520
+2020-06-23 09:03:34,545 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:03:35,174 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.127211
+2020-06-23 09:03:40,199 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.444131
+2020-06-23 09:03:45,772 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:03:46,443 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.194614
+2020-06-23 09:03:51,696 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.142872
+2020-06-23 09:03:57,352 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:05:17,821 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 09:05:18,711 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.188317
+2020-06-23 09:05:24,413 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.298430
+2020-06-23 09:05:31,421 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:05:32,259 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.178581
+2020-06-23 09:05:38,928 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.138496
+2020-06-23 09:05:45,441 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:05:46,174 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.133780
+2020-06-23 09:05:53,039 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.058992
+2020-06-23 09:06:00,057 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:06:00,841 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.139385
+2020-06-23 09:06:07,912 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.148005
+2020-06-23 09:06:14,368 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:06:15,281 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.271899
+2020-06-23 09:06:20,386 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.092267
+2020-06-23 09:06:26,954 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:06:27,968 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.092658
+2020-06-23 09:06:33,436 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.133270
+2020-06-23 09:06:39,418 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:07:45,066 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 09:07:45,774 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.275517
+2020-06-23 09:07:50,682 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.087429
+2020-06-23 09:07:55,491 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:07:56,147 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.093162
+2020-06-23 09:08:01,868 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.200015
+2020-06-23 09:08:06,527 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:08:07,223 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.125904
+2020-06-23 09:08:13,001 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.133865
+2020-06-23 09:08:18,981 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:08:20,026 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.287439
+2020-06-23 09:08:29,499 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.107319
+2020-06-23 09:08:36,143 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:08:36,777 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.151874
+2020-06-23 09:08:42,657 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.204262
+2020-06-23 09:08:47,734 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:08:48,584 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.068436
+2020-06-23 09:08:54,299 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.452936
+2020-06-23 09:09:00,696 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:09:18,683 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 09:09:19,557 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.142058
+2020-06-23 09:09:22,173 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:09:22,889 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.176899
+2020-06-23 09:09:25,287 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:09:25,913 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.148720
+2020-06-23 09:09:28,600 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:09:29,224 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.381817
+2020-06-23 09:09:31,877 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:09:32,728 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.057868
+2020-06-23 09:09:35,307 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:09:35,929 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.126990
+2020-06-23 09:09:38,495 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:09:38,645 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 09:09:38,684 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 09:09:43,930 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 09:09:43,932 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 09:09:43,935 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.1456, Accuracy: 9560/10000 (96%)
+
+2020-06-23 09:09:43,937 INFO mnist_fed.py(l:219) - Starting epoch 4/10
+2020-06-23 09:10:43,891 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 09:10:45,043 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.046109
+2020-06-23 09:10:50,894 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.323653
+2020-06-23 09:10:56,545 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:10:57,245 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.409004
+2020-06-23 09:11:04,175 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.076094
+2020-06-23 09:11:10,550 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:11:11,325 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.230139
+2020-06-23 09:11:17,791 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.268179
+2020-06-23 09:11:24,638 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:11:25,428 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.085887
+2020-06-23 09:11:32,240 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.099563
+2020-06-23 09:11:40,435 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:11:41,266 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.038187
+2020-06-23 09:11:47,602 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.249837
+2020-06-23 09:11:53,535 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:11:54,239 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.168160
+2020-06-23 09:12:00,929 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.187277
+2020-06-23 09:12:08,835 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:13:46,664 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 09:13:47,795 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.093642
+2020-06-23 09:13:55,372 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.152807
+2020-06-23 09:14:02,843 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:14:03,909 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.299037
+2020-06-23 09:14:11,948 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.323079
+2020-06-23 09:14:22,531 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:14:23,565 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.124800
+2020-06-23 09:14:33,204 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.049752
+2020-06-23 09:14:45,402 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:14:46,556 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.147987
+2020-06-23 09:14:58,007 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.087959
+2020-06-23 09:15:06,227 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:15:07,714 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.164300
+2020-06-23 09:15:17,588 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.119798
+2020-06-23 09:15:25,356 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:15:26,970 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.098519
+2020-06-23 09:15:35,626 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.319276
+2020-06-23 09:15:46,146 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:17:28,870 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 09:17:30,374 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.172568
+2020-06-23 09:17:43,611 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.129884
+2020-06-23 09:17:52,331 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:17:53,159 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.080936
+2020-06-23 09:18:00,183 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.090886
+2020-06-23 09:18:06,868 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:18:07,569 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.186552
+2020-06-23 09:18:15,336 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.124863
+2020-06-23 09:18:23,178 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:18:24,128 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.428074
+2020-06-23 09:18:32,348 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.085938
+2020-06-23 09:18:42,315 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:18:43,384 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.139627
+2020-06-23 09:18:54,220 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.076389
+2020-06-23 09:19:01,597 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:19:02,397 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.052714
+2020-06-23 09:19:09,906 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.304102
+2020-06-23 09:19:18,272 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:20:40,548 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 09:20:41,310 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.097514
+2020-06-23 09:20:46,460 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.090981
+2020-06-23 09:20:52,181 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:20:52,828 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.503593
+2020-06-23 09:20:57,765 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.242950
+2020-06-23 09:21:03,330 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:21:04,182 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.147732
+2020-06-23 09:21:10,270 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.177070
+2020-06-23 09:21:15,874 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:21:16,573 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.080685
+2020-06-23 09:21:24,260 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.266913
+2020-06-23 09:21:30,609 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:21:31,283 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.067052
+2020-06-23 09:21:37,446 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.244737
+2020-06-23 09:21:45,374 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:21:46,575 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.147653
+2020-06-23 09:21:56,629 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.213723
+2020-06-23 09:22:03,720 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:23:10,313 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 09:23:11,453 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.073136
+2020-06-23 09:23:18,472 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.092162
+2020-06-23 09:23:25,009 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:23:25,645 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.102133
+2020-06-23 09:23:30,768 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.211989
+2020-06-23 09:23:36,064 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:23:36,705 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.076972
+2020-06-23 09:23:42,416 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.129845
+2020-06-23 09:23:48,554 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:23:49,388 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.360432
+2020-06-23 09:23:56,681 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.094731
+2020-06-23 09:24:02,082 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:24:03,108 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.125471
+2020-06-23 09:24:09,192 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.313810
+2020-06-23 09:24:15,581 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:24:17,407 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.113197
+2020-06-23 09:24:25,016 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.601553
+2020-06-23 09:24:32,275 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:25:42,698 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 09:25:43,469 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.255577
+2020-06-23 09:25:49,305 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.271223
+2020-06-23 09:25:54,420 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:25:55,816 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.177476
+2020-06-23 09:26:01,303 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.201314
+2020-06-23 09:26:07,261 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:26:08,094 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.143958
+2020-06-23 09:26:13,003 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.130228
+2020-06-23 09:26:17,799 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:26:18,390 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.059303
+2020-06-23 09:26:26,350 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.107281
+2020-06-23 09:26:34,240 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:26:35,021 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.083206
+2020-06-23 09:26:41,306 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.087313
+2020-06-23 09:26:47,222 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:26:47,861 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.118577
+2020-06-23 09:26:53,288 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.185014
+2020-06-23 09:27:01,479 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:27:16,844 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 09:27:18,291 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.033819
+2020-06-23 09:27:21,250 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:27:22,062 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.119593
+2020-06-23 09:27:24,737 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:27:25,369 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.021824
+2020-06-23 09:27:27,761 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:27:28,399 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.087632
+2020-06-23 09:27:32,696 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:27:33,521 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.110325
+2020-06-23 09:27:36,892 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:27:37,714 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.023575
+2020-06-23 09:27:41,434 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:27:41,682 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 09:27:41,755 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 09:27:47,200 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 09:27:47,200 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 09:27:47,202 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.1168, Accuracy: 9662/10000 (97%)
+
+2020-06-23 09:27:47,203 INFO mnist_fed.py(l:219) - Starting epoch 5/10
+2020-06-23 09:28:49,088 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 09:28:49,811 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.032213
+2020-06-23 09:28:56,136 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.141306
+2020-06-23 09:29:03,421 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:29:04,532 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.135189
+2020-06-23 09:29:11,904 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.129079
+2020-06-23 09:29:19,578 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:29:20,381 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.094017
+2020-06-23 09:29:29,327 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.105894
+2020-06-23 09:29:38,192 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:29:39,999 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.054216
+2020-06-23 09:29:47,272 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.241499
+2020-06-23 09:29:53,540 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:29:54,280 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.119660
+2020-06-23 09:30:00,463 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.066404
+2020-06-23 09:30:05,824 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:30:06,475 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.108031
+2020-06-23 09:30:11,961 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.353100
+2020-06-23 09:30:16,687 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:31:28,274 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 09:31:29,024 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.061043
+2020-06-23 09:31:35,607 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.026132
+2020-06-23 09:31:40,603 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:31:41,263 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.182916
+2020-06-23 09:31:46,200 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.182488
+2020-06-23 09:31:51,034 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:31:51,664 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.086354
+2020-06-23 09:31:56,668 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.041384
+2020-06-23 09:32:01,861 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:32:02,477 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.032506
+2020-06-23 09:32:07,849 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.108496
+2020-06-23 09:32:12,550 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:32:13,180 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.103833
+2020-06-23 09:32:18,211 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.092168
+2020-06-23 09:32:22,989 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:32:23,658 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.134936
+2020-06-23 09:32:28,631 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.044218
+2020-06-23 09:32:33,553 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:33:31,691 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 09:33:32,401 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.030900
+2020-06-23 09:33:37,685 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.097871
+2020-06-23 09:33:42,495 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:33:43,120 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.208479
+2020-06-23 09:33:48,144 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.076336
+2020-06-23 09:33:52,986 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:33:53,637 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.207839
+2020-06-23 09:33:58,558 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.132315
+2020-06-23 09:34:02,944 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:34:03,546 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.090119
+2020-06-23 09:34:08,826 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.109560
+2020-06-23 09:34:13,574 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:34:14,175 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.090994
+2020-06-23 09:34:19,551 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.080175
+2020-06-23 09:34:24,386 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:34:24,985 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.160302
+2020-06-23 09:34:29,753 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.117289
+2020-06-23 09:34:34,513 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:35:31,295 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 09:35:32,001 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.180445
+2020-06-23 09:35:37,349 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.083120
+2020-06-23 09:35:42,352 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:35:42,969 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.131011
+2020-06-23 09:35:48,161 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.217108
+2020-06-23 09:35:53,044 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:35:53,678 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.130008
+2020-06-23 09:35:58,823 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.041026
+2020-06-23 09:36:03,752 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:36:04,360 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.059110
+2020-06-23 09:36:09,717 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.058392
+2020-06-23 09:36:14,517 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:36:15,137 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.068696
+2020-06-23 09:36:20,064 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.106006
+2020-06-23 09:36:25,011 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:36:25,631 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.033849
+2020-06-23 09:36:30,623 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.075008
+2020-06-23 09:36:35,051 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:37:34,600 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 09:37:35,319 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.126882
+2020-06-23 09:37:40,861 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.081909
+2020-06-23 09:37:45,673 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:37:46,307 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.147358
+2020-06-23 09:37:51,510 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.141910
+2020-06-23 09:37:56,496 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:37:57,133 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.118569
+2020-06-23 09:38:02,211 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.224443
+2020-06-23 09:38:07,103 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:38:07,717 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.192941
+2020-06-23 09:38:13,105 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.108024
+2020-06-23 09:38:17,805 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:38:18,407 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.046178
+2020-06-23 09:38:23,697 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.085312
+2020-06-23 09:38:28,365 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:38:29,205 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.111886
+2020-06-23 09:38:33,817 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.024164
+2020-06-23 09:38:38,607 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:39:37,696 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 09:39:38,376 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.384481
+2020-06-23 09:39:43,864 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.377600
+2020-06-23 09:39:48,568 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:39:49,208 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.070131
+2020-06-23 09:39:54,231 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.040581
+2020-06-23 09:39:58,684 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:39:59,573 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.128548
+2020-06-23 09:40:04,205 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.098677
+2020-06-23 09:40:08,858 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:40:09,471 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.116350
+2020-06-23 09:40:14,775 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.039626
+2020-06-23 09:40:19,514 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:40:20,177 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.140976
+2020-06-23 09:40:25,288 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.083973
+2020-06-23 09:40:30,184 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:40:30,811 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.073230
+2020-06-23 09:40:35,804 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.140314
+2020-06-23 09:40:41,311 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:40:55,797 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 09:40:56,769 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.022141
+2020-06-23 09:40:59,154 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:40:59,768 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.072982
+2020-06-23 09:41:02,376 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:41:02,987 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.312462
+2020-06-23 09:41:05,174 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:41:05,777 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.018938
+2020-06-23 09:41:08,387 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:41:09,006 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.535527
+2020-06-23 09:41:11,682 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:41:12,298 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.038913
+2020-06-23 09:41:14,919 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:41:15,037 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 09:41:15,072 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 09:41:19,944 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 09:41:19,945 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 09:41:19,948 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.0953, Accuracy: 9723/10000 (97%)
+
+2020-06-23 09:41:19,949 INFO mnist_fed.py(l:219) - Starting epoch 6/10
+2020-06-23 09:42:16,423 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 09:42:17,049 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.044737
+2020-06-23 09:42:22,138 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.039109
+2020-06-23 09:42:26,592 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:42:27,450 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.050431
+2020-06-23 09:42:32,611 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.094026
+2020-06-23 09:42:37,284 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:42:37,924 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.243721
+2020-06-23 09:42:43,839 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.148473
+2020-06-23 09:42:48,505 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:42:49,142 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.057737
+2020-06-23 09:42:54,231 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.251091
+2020-06-23 09:42:58,935 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:42:59,616 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.030501
+2020-06-23 09:43:04,745 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.090420
+2020-06-23 09:43:09,530 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:43:10,175 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.238715
+2020-06-23 09:43:15,961 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.122015
+2020-06-23 09:43:20,905 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:44:22,390 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 09:44:23,541 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.157949
+2020-06-23 09:44:28,190 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.105380
+2020-06-23 09:44:33,113 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:44:33,742 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.169526
+2020-06-23 09:44:38,681 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.045850
+2020-06-23 09:44:43,525 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:44:44,151 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.093258
+2020-06-23 09:44:49,841 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.066016
+2020-06-23 09:44:54,815 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:44:55,420 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.155317
+2020-06-23 09:45:00,490 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.062832
+2020-06-23 09:45:05,660 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:45:06,281 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.106214
+2020-06-23 09:45:11,979 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.183465
+2020-06-23 09:45:18,653 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:45:19,351 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.012030
+2020-06-23 09:45:24,936 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.085609
+2020-06-23 09:45:30,344 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:46:29,091 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 09:46:29,771 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.030462
+2020-06-23 09:46:34,773 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.158545
+2020-06-23 09:46:39,775 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:46:40,371 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.074339
+2020-06-23 09:46:45,450 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.271684
+2020-06-23 09:46:51,062 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:46:51,688 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.134163
+2020-06-23 09:46:56,804 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.069379
+2020-06-23 09:47:01,913 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:47:02,528 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.141468
+2020-06-23 09:47:07,479 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.076753
+2020-06-23 09:47:11,906 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:47:12,757 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.105463
+2020-06-23 09:47:17,564 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.237938
+2020-06-23 09:47:22,819 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:47:23,419 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.091217
+2020-06-23 09:47:28,598 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.114747
+2020-06-23 09:47:34,032 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:48:33,033 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 09:48:33,956 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.014007
+2020-06-23 09:48:38,649 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.102021
+2020-06-23 09:48:43,565 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:48:44,179 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.068820
+2020-06-23 09:48:49,251 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.076566
+2020-06-23 09:48:54,698 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:48:55,337 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.194983
+2020-06-23 09:49:00,299 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.127027
+2020-06-23 09:49:05,048 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:49:05,659 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.093454
+2020-06-23 09:49:10,490 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.136846
+2020-06-23 09:49:15,188 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:49:16,082 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.038052
+2020-06-23 09:49:21,195 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.117516
+2020-06-23 09:49:26,710 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:49:27,328 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.198957
+2020-06-23 09:49:32,280 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.050678
+2020-06-23 09:49:36,769 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:50:36,291 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 09:50:36,981 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.019172
+2020-06-23 09:50:42,086 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.173255
+2020-06-23 09:50:46,592 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:50:47,536 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.068746
+2020-06-23 09:50:52,342 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.035084
+2020-06-23 09:50:57,653 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:50:58,244 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.030673
+2020-06-23 09:51:03,155 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.212690
+2020-06-23 09:51:07,955 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:51:08,556 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.150883
+2020-06-23 09:51:13,472 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.130240
+2020-06-23 09:51:18,207 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:51:18,833 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.053522
+2020-06-23 09:51:24,528 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.475354
+2020-06-23 09:51:29,522 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:51:30,214 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.082508
+2020-06-23 09:51:35,181 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.057678
+2020-06-23 09:51:40,038 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:52:40,868 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 09:52:41,602 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.329414
+2020-06-23 09:52:46,646 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.064534
+2020-06-23 09:52:51,959 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:52:52,583 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.084844
+2020-06-23 09:52:58,582 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.031846
+2020-06-23 09:53:03,517 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:53:04,092 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.112024
+2020-06-23 09:53:09,209 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.213565
+2020-06-23 09:53:14,197 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:53:14,798 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.101564
+2020-06-23 09:53:19,971 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.043119
+2020-06-23 09:53:25,273 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:53:25,882 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.165003
+2020-06-23 09:53:31,068 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.020471
+2020-06-23 09:53:35,599 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:53:36,369 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.129268
+2020-06-23 09:53:41,115 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.175442
+2020-06-23 09:53:46,113 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:54:01,596 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 09:54:02,296 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.012415
+2020-06-23 09:54:04,507 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:54:05,200 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.175335
+2020-06-23 09:54:07,754 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:54:08,358 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.004452
+2020-06-23 09:54:10,636 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:54:11,598 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.010732
+2020-06-23 09:54:13,867 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:54:14,491 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.074465
+2020-06-23 09:54:17,679 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:54:18,304 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.041041
+2020-06-23 09:54:20,590 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:54:20,735 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 09:54:20,768 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 09:54:27,725 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 09:54:27,725 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 09:54:27,726 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.0837, Accuracy: 9755/10000 (98%)
+
+2020-06-23 09:54:27,727 INFO mnist_fed.py(l:219) - Starting epoch 7/10
+2020-06-23 09:55:24,602 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 09:55:25,208 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.225070
+2020-06-23 09:55:30,602 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.404245
+2020-06-23 09:55:35,437 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:55:36,062 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.141116
+2020-06-23 09:55:41,379 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.045737
+2020-06-23 09:55:46,307 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:55:46,987 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.066030
+2020-06-23 09:55:52,095 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.172170
+2020-06-23 09:55:57,647 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:55:58,251 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.091945
+2020-06-23 09:56:03,863 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.242937
+2020-06-23 09:56:08,375 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:56:09,228 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.090001
+2020-06-23 09:56:15,799 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.066996
+2020-06-23 09:56:20,511 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:56:21,201 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.060844
+2020-06-23 09:56:26,642 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.073751
+2020-06-23 09:56:31,700 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:57:31,988 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 09:57:32,701 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.035779
+2020-06-23 09:57:37,954 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.058044
+2020-06-23 09:57:42,605 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:57:43,529 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.028932
+2020-06-23 09:57:48,267 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.116046
+2020-06-23 09:57:53,254 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 09:57:53,853 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.039050
+2020-06-23 09:57:58,865 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.072099
+2020-06-23 09:58:03,934 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 09:58:04,530 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.070324
+2020-06-23 09:58:09,529 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.127857
+2020-06-23 09:58:14,341 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 09:58:14,957 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.185139
+2020-06-23 09:58:19,931 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.057675
+2020-06-23 09:58:24,650 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 09:58:25,626 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.045172
+2020-06-23 09:58:30,552 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.010387
+2020-06-23 09:58:35,415 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 09:59:36,164 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 09:59:37,528 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.055542
+2020-06-23 09:59:43,626 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.017184
+2020-06-23 09:59:48,943 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 09:59:50,609 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.201182
+2020-06-23 09:59:55,906 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.087808
+2020-06-23 10:00:02,204 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:00:03,018 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.024047
+2020-06-23 10:00:09,182 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.213701
+2020-06-23 10:00:15,054 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:00:16,001 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.032820
+2020-06-23 10:00:21,298 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.210435
+2020-06-23 10:00:26,074 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:00:27,113 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.160374
+2020-06-23 10:00:32,913 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.060831
+2020-06-23 10:00:37,659 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:00:39,275 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.017729
+2020-06-23 10:00:44,346 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.006870
+2020-06-23 10:00:49,023 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:01:48,937 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 10:01:49,724 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.254121
+2020-06-23 10:01:55,372 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.101687
+2020-06-23 10:02:00,746 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:02:01,439 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.024121
+2020-06-23 10:02:06,850 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.024675
+2020-06-23 10:02:11,851 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:02:12,654 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.081295
+2020-06-23 10:02:17,758 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.025574
+2020-06-23 10:02:22,628 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:02:23,297 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.090553
+2020-06-23 10:02:28,192 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.028346
+2020-06-23 10:02:33,349 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:02:33,993 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.117583
+2020-06-23 10:02:38,976 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.128859
+2020-06-23 10:02:43,598 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:02:44,510 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.287869
+2020-06-23 10:02:49,018 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.034775
+2020-06-23 10:02:53,874 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:03:52,396 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 10:03:53,102 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.020877
+2020-06-23 10:03:57,847 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.129148
+2020-06-23 10:04:02,493 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:04:03,333 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.060291
+2020-06-23 10:04:08,374 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.033459
+2020-06-23 10:04:13,188 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:04:13,794 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.028343
+2020-06-23 10:04:19,017 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.067698
+2020-06-23 10:04:23,684 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:04:24,306 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.094548
+2020-06-23 10:04:28,877 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.044699
+2020-06-23 10:04:33,342 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:04:33,945 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.053534
+2020-06-23 10:04:38,912 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.015656
+2020-06-23 10:04:43,741 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:04:44,333 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.097227
+2020-06-23 10:04:49,225 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.352948
+2020-06-23 10:04:53,914 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:05:49,350 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 10:05:50,511 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.023523
+2020-06-23 10:05:55,965 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.058552
+2020-06-23 10:06:00,885 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:06:01,493 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.100694
+2020-06-23 10:06:06,471 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.058971
+2020-06-23 10:06:11,294 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:06:11,911 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.174455
+2020-06-23 10:06:16,742 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.053736
+2020-06-23 10:06:21,244 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:06:21,985 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.116164
+2020-06-23 10:06:26,478 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.011384
+2020-06-23 10:06:31,110 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:06:31,737 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.151638
+2020-06-23 10:06:36,464 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.077549
+2020-06-23 10:06:41,473 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:06:42,095 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.043890
+2020-06-23 10:06:47,166 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.050115
+2020-06-23 10:06:51,988 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:07:06,266 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 10:07:06,964 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.032856
+2020-06-23 10:07:09,546 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:07:10,604 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.037981
+2020-06-23 10:07:13,521 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:07:14,120 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.033373
+2020-06-23 10:07:16,276 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:07:17,009 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.042665
+2020-06-23 10:07:19,370 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:07:19,984 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.021525
+2020-06-23 10:07:22,262 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:07:23,179 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.166446
+2020-06-23 10:07:25,373 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:07:25,531 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 10:07:25,566 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 10:07:35,080 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 10:07:35,082 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 10:07:35,085 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.0725, Accuracy: 9797/10000 (98%)
+
+2020-06-23 10:07:35,087 INFO mnist_fed.py(l:219) - Starting epoch 8/10
+2020-06-23 10:08:31,865 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 10:08:32,518 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.259692
+2020-06-23 10:08:37,448 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.179853
+2020-06-23 10:08:42,513 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:08:43,154 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.085433
+2020-06-23 10:08:48,898 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.127648
+2020-06-23 10:08:53,970 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:08:54,621 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.032248
+2020-06-23 10:09:00,199 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.020418
+2020-06-23 10:09:05,484 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:09:06,160 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.024454
+2020-06-23 10:09:13,013 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.041813
+2020-06-23 10:09:18,477 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:09:19,347 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.111080
+2020-06-23 10:09:24,767 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.042505
+2020-06-23 10:09:29,279 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:09:30,328 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.106347
+2020-06-23 10:09:35,782 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.017660
+2020-06-23 10:09:40,421 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:10:39,522 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 10:10:40,252 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.174746
+2020-06-23 10:10:45,358 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.215521
+2020-06-23 10:10:50,231 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:10:50,955 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.015630
+2020-06-23 10:10:56,240 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.223978
+2020-06-23 10:11:00,727 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:11:01,697 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.053847
+2020-06-23 10:11:06,232 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.058502
+2020-06-23 10:11:11,751 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:11:12,904 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.086438
+2020-06-23 10:11:18,539 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.053895
+2020-06-23 10:11:23,289 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:11:23,907 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.032678
+2020-06-23 10:11:28,918 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.134048
+2020-06-23 10:11:33,800 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:11:34,460 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.051036
+2020-06-23 10:11:39,440 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.073975
+2020-06-23 10:11:44,290 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:12:40,292 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 10:12:41,021 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.070852
+2020-06-23 10:12:46,343 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.314606
+2020-06-23 10:12:51,196 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:12:52,196 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.132311
+2020-06-23 10:12:57,458 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.154207
+2020-06-23 10:13:02,000 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:13:02,825 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.039611
+2020-06-23 10:13:07,336 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.033816
+2020-06-23 10:13:12,026 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:13:12,637 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.102362
+2020-06-23 10:13:17,709 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.037819
+2020-06-23 10:13:22,421 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:13:23,040 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.012789
+2020-06-23 10:13:27,904 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.059888
+2020-06-23 10:13:32,626 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:13:33,248 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.060241
+2020-06-23 10:13:38,090 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.199410
+2020-06-23 10:13:43,349 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:14:42,199 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 10:14:42,902 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.046459
+2020-06-23 10:14:47,856 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.049873
+2020-06-23 10:14:52,426 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:14:53,037 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.013246
+2020-06-23 10:14:57,936 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.044499
+2020-06-23 10:15:02,541 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:15:03,267 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.133261
+2020-06-23 10:15:07,758 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.080508
+2020-06-23 10:15:12,331 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:15:12,922 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.113229
+2020-06-23 10:15:17,932 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.227925
+2020-06-23 10:15:22,674 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:15:23,272 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.248492
+2020-06-23 10:15:28,115 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.059395
+2020-06-23 10:15:32,973 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:15:33,583 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.009547
+2020-06-23 10:15:37,988 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.024216
+2020-06-23 10:15:42,842 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:16:39,790 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 10:16:40,481 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.075944
+2020-06-23 10:16:45,448 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.022384
+2020-06-23 10:16:49,982 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:16:50,976 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.021830
+2020-06-23 10:16:55,540 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.007958
+2020-06-23 10:17:00,264 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:17:00,863 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.007742
+2020-06-23 10:17:05,629 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.051671
+2020-06-23 10:17:10,550 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:17:11,700 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.038985
+2020-06-23 10:17:17,076 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.126732
+2020-06-23 10:17:21,869 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:17:22,490 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.037752
+2020-06-23 10:17:27,508 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.034871
+2020-06-23 10:17:31,863 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:17:32,774 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.011084
+2020-06-23 10:17:37,391 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.006497
+2020-06-23 10:17:42,206 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:18:38,912 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 10:18:39,586 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.075083
+2020-06-23 10:18:44,641 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.051362
+2020-06-23 10:18:49,264 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:18:49,867 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.192943
+2020-06-23 10:18:54,828 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.035738
+2020-06-23 10:18:59,789 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:19:00,881 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.069946
+2020-06-23 10:19:06,104 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.029650
+2020-06-23 10:19:10,882 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:19:11,482 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.002787
+2020-06-23 10:19:16,467 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.025271
+2020-06-23 10:19:21,757 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:19:22,365 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.043405
+2020-06-23 10:19:27,250 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.235318
+2020-06-23 10:19:31,604 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:19:32,416 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.018693
+2020-06-23 10:19:37,300 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.042506
+2020-06-23 10:19:42,437 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:19:58,262 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 10:19:59,005 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.157122
+2020-06-23 10:20:01,147 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:20:01,767 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.117713
+2020-06-23 10:20:04,441 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:20:05,070 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.010050
+2020-06-23 10:20:07,382 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:20:07,987 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.166345
+2020-06-23 10:20:10,677 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:20:11,434 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.167463
+2020-06-23 10:20:14,199 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:20:15,336 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.030215
+2020-06-23 10:20:17,840 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:20:17,990 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 10:20:18,016 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 10:20:28,931 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 10:20:28,933 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 10:20:28,934 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.0679, Accuracy: 9786/10000 (98%)
+
+2020-06-23 10:20:28,935 INFO mnist_fed.py(l:219) - Starting epoch 9/10
+2020-06-23 10:21:26,981 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 10:21:27,595 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.090550
+2020-06-23 10:21:32,505 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.119799
+2020-06-23 10:21:37,371 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:21:38,105 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.021755
+2020-06-23 10:21:43,602 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.026660
+2020-06-23 10:21:48,134 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:21:49,052 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.079904
+2020-06-23 10:21:54,564 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.122854
+2020-06-23 10:21:59,703 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:22:00,432 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.064472
+2020-06-23 10:22:05,569 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.078960
+2020-06-23 10:22:10,355 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:22:10,983 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.041131
+2020-06-23 10:22:16,360 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.272887
+2020-06-23 10:22:21,262 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:22:21,898 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.025346
+2020-06-23 10:22:27,630 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.129334
+2020-06-23 10:22:32,239 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:23:30,675 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 10:23:31,381 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.092245
+2020-06-23 10:23:36,107 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.025152
+2020-06-23 10:23:40,882 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:23:41,512 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.057195
+2020-06-23 10:23:47,394 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.048335
+2020-06-23 10:23:51,999 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:23:52,691 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.028043
+2020-06-23 10:23:58,008 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.142067
+2020-06-23 10:24:03,055 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:24:04,376 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.272459
+2020-06-23 10:24:10,189 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.074845
+2020-06-23 10:24:18,837 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:24:19,735 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.043024
+2020-06-23 10:24:26,282 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.228285
+2020-06-23 10:24:31,076 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:24:32,183 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.063383
+2020-06-23 10:24:37,604 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.021855
+2020-06-23 10:24:43,071 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:26:10,407 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 10:26:11,187 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.108023
+2020-06-23 10:26:17,030 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.113387
+2020-06-23 10:26:22,869 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:26:24,104 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.020946
+2020-06-23 10:26:31,349 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.171808
+2020-06-23 10:26:37,908 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:26:38,829 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.054922
+2020-06-23 10:26:45,184 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.086797
+2020-06-23 10:26:50,985 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:26:51,666 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.118194
+2020-06-23 10:26:57,944 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.106412
+2020-06-23 10:27:03,618 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:27:04,574 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.101355
+2020-06-23 10:27:10,632 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.054472
+2020-06-23 10:27:16,858 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:27:18,921 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.044932
+2020-06-23 10:27:25,019 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.057342
+2020-06-23 10:27:31,316 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:28:44,491 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 10:28:45,379 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.083724
+2020-06-23 10:28:51,797 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.210517
+2020-06-23 10:28:57,671 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:28:58,338 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.083443
+2020-06-23 10:29:05,207 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.146613
+2020-06-23 10:29:10,689 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:29:11,366 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.025059
+2020-06-23 10:29:18,000 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.098222
+2020-06-23 10:29:23,800 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:29:24,442 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.055488
+2020-06-23 10:29:31,002 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.140002
+2020-06-23 10:29:36,976 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:29:37,659 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.141069
+2020-06-23 10:29:44,328 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.034407
+2020-06-23 10:29:50,225 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:29:51,256 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.052755
+2020-06-23 10:29:57,658 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.021749
+2020-06-23 10:30:03,918 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:31:15,711 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 10:31:16,474 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.027931
+2020-06-23 10:31:23,328 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.037711
+2020-06-23 10:31:28,829 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:31:29,436 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.022593
+2020-06-23 10:31:35,931 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.016348
+2020-06-23 10:31:42,374 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:31:43,219 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.007926
+2020-06-23 10:31:49,444 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.052093
+2020-06-23 10:31:55,374 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:31:56,108 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.165569
+2020-06-23 10:32:02,305 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.044634
+2020-06-23 10:32:08,442 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:32:09,124 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.061745
+2020-06-23 10:32:15,195 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.262902
+2020-06-23 10:32:21,133 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:32:21,896 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.078984
+2020-06-23 10:32:27,877 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.077669
+2020-06-23 10:32:33,757 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:33:50,842 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 10:33:51,785 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.117823
+2020-06-23 10:33:58,500 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.061964
+2020-06-23 10:34:04,344 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:34:05,202 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.040359
+2020-06-23 10:34:11,038 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.062169
+2020-06-23 10:34:19,527 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:34:21,041 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.035942
+2020-06-23 10:34:28,722 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.113156
+2020-06-23 10:34:34,705 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:34:36,013 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.032130
+2020-06-23 10:34:42,608 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.073350
+2020-06-23 10:34:49,805 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:34:50,525 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.065592
+2020-06-23 10:34:57,073 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.231827
+2020-06-23 10:35:03,461 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:35:04,182 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.263650
+2020-06-23 10:35:11,198 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.012268
+2020-06-23 10:35:18,245 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:35:42,139 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 10:35:43,025 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.076367
+2020-06-23 10:35:45,687 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:35:46,872 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.071425
+2020-06-23 10:35:50,552 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:35:51,191 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.066140
+2020-06-23 10:35:53,735 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:35:55,788 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.053851
+2020-06-23 10:35:59,073 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:35:59,738 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.029558
+2020-06-23 10:36:03,751 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:36:05,401 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.046278
+2020-06-23 10:36:11,588 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:36:11,889 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 10:36:11,939 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 10:36:30,404 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 10:36:30,407 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 10:36:30,409 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.0610, Accuracy: 9808/10000 (98%)
+
+2020-06-23 10:36:30,410 INFO mnist_fed.py(l:219) - Starting epoch 10/10
+2020-06-23 10:37:50,174 DEBUG mnist_fed.py(l:108) - Starting training round, batches [0, 50]
+2020-06-23 10:37:51,149 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.025098
+2020-06-23 10:37:56,866 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.036523
+2020-06-23 10:38:02,435 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:38:03,098 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.086166
+2020-06-23 10:38:08,106 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.095563
+2020-06-23 10:38:13,227 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:38:13,908 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.005487
+2020-06-23 10:38:19,288 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.015236
+2020-06-23 10:38:24,506 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:38:25,150 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.258339
+2020-06-23 10:38:30,667 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.256722
+2020-06-23 10:38:35,302 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:38:36,181 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.007771
+2020-06-23 10:38:41,325 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.119179
+2020-06-23 10:38:46,332 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:38:47,209 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.050983
+2020-06-23 10:38:52,554 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.090532
+2020-06-23 10:38:57,453 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:39:57,898 DEBUG mnist_fed.py(l:108) - Starting training round, batches [50, 100]
+2020-06-23 10:39:58,916 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.102986
+2020-06-23 10:40:03,976 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.071542
+2020-06-23 10:40:09,527 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:40:10,521 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.025081
+2020-06-23 10:40:15,518 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.161517
+2020-06-23 10:40:20,573 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:40:21,240 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.011945
+2020-06-23 10:40:26,356 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.178025
+2020-06-23 10:40:31,463 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:40:32,346 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.024652
+2020-06-23 10:40:37,522 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.168205
+2020-06-23 10:40:41,979 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:40:42,707 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.119623
+2020-06-23 10:40:47,770 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.239680
+2020-06-23 10:40:53,043 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:40:53,698 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.175676
+2020-06-23 10:41:15,015 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.017054
+2020-06-23 10:41:20,858 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:42:20,628 DEBUG mnist_fed.py(l:108) - Starting training round, batches [100, 150]
+2020-06-23 10:42:21,402 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.032148
+2020-06-23 10:42:26,576 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.084275
+2020-06-23 10:42:30,981 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:42:32,182 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.051804
+2020-06-23 10:42:36,935 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.198298
+2020-06-23 10:42:41,899 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:42:42,592 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.049561
+2020-06-23 10:42:47,595 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.005363
+2020-06-23 10:42:52,643 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:42:53,285 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.031781
+2020-06-23 10:42:58,261 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.023810
+2020-06-23 10:43:03,011 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:43:04,020 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.033950
+2020-06-23 10:43:09,454 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.030969
+2020-06-23 10:43:14,553 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:43:15,345 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.004183
+2020-06-23 10:43:20,847 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.018405
+2020-06-23 10:43:26,282 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:44:25,878 DEBUG mnist_fed.py(l:108) - Starting training round, batches [150, 200]
+2020-06-23 10:44:26,591 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.037586
+2020-06-23 10:44:31,539 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.020776
+2020-06-23 10:44:36,687 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:44:37,545 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.116946
+2020-06-23 10:44:42,667 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.011137
+2020-06-23 10:44:47,713 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:44:48,349 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.011465
+2020-06-23 10:44:53,849 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.011765
+2020-06-23 10:44:59,124 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:44:59,749 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.036744
+2020-06-23 10:45:05,128 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.058842
+2020-06-23 10:45:11,114 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:45:11,807 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.039998
+2020-06-23 10:45:17,520 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.025098
+2020-06-23 10:45:23,121 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:45:23,817 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.132492
+2020-06-23 10:45:29,635 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.085555
+2020-06-23 10:45:34,784 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:46:35,013 DEBUG mnist_fed.py(l:108) - Starting training round, batches [200, 250]
+2020-06-23 10:46:35,700 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.003926
+2020-06-23 10:46:41,099 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.004937
+2020-06-23 10:46:47,045 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:46:47,652 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.041077
+2020-06-23 10:46:52,936 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.030281
+2020-06-23 10:46:57,914 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:46:58,774 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.011554
+2020-06-23 10:47:05,903 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.190808
+2020-06-23 10:47:11,257 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:47:12,144 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.048623
+2020-06-23 10:47:17,682 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.052660
+2020-06-23 10:47:22,675 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:47:23,581 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.032288
+2020-06-23 10:47:28,458 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.012259
+2020-06-23 10:47:33,385 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:47:33,989 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.077019
+2020-06-23 10:47:39,661 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.087039
+2020-06-23 10:47:44,705 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:49:07,155 DEBUG mnist_fed.py(l:108) - Starting training round, batches [250, 300]
+2020-06-23 10:49:07,882 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/50 (0%)]        Loss: 0.023303
+2020-06-23 10:49:14,664 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [25/50 (50%)]      Loss: 0.011419
+2020-06-23 10:49:21,549 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:49:22,325 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/50 (0%)]      Loss: 0.062801
+2020-06-23 10:49:28,761 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [25/50 (50%)]    Loss: 0.028006
+2020-06-23 10:49:34,350 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:49:35,007 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/50 (0%)]       Loss: 0.032888
+2020-06-23 10:49:40,682 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [25/50 (50%)]     Loss: 0.046968
+2020-06-23 10:49:47,292 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:49:47,960 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/50 (0%)]      Loss: 0.004409
+2020-06-23 10:49:54,123 DEBUG mnist_fed.py(l:73) - Train Worker James: [25/50 (50%)]    Loss: 0.171968
+2020-06-23 10:50:00,343 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:50:01,032 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/50 (0%)]    Loss: 0.021741
+2020-06-23 10:50:06,829 DEBUG mnist_fed.py(l:73) - Train Worker William: [25/50 (50%)]  Loss: 0.030079
+2020-06-23 10:50:12,469 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:50:13,157 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/50 (0%)]        Loss: 0.156290
+2020-06-23 10:50:20,222 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [25/50 (50%)]      Loss: 0.136406
+2020-06-23 10:50:27,719 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:50:51,500 DEBUG mnist_fed.py(l:108) - Starting training round, batches [300, 350]
+2020-06-23 10:50:52,490 DEBUG mnist_fed.py(l:73) - Train Worker Bob: [0/13 (0%)]        Loss: 0.104191
+2020-06-23 10:50:56,496 INFO summary.py(l:47) - Summary name Training Loss/Bob is illegal; using Training_Loss/Bob instead.
+2020-06-23 10:50:58,386 DEBUG mnist_fed.py(l:73) - Train Worker Alice: [0/13 (0%)]      Loss: 0.060626
+2020-06-23 10:51:03,173 INFO summary.py(l:47) - Summary name Training Loss/Alice is illegal; using Training_Loss/Alice instead.
+2020-06-23 10:51:04,468 DEBUG mnist_fed.py(l:73) - Train Worker Bill: [0/13 (0%)]       Loss: 0.099301
+2020-06-23 10:51:09,008 INFO summary.py(l:47) - Summary name Training Loss/Bill is illegal; using Training_Loss/Bill instead.
+2020-06-23 10:51:10,212 DEBUG mnist_fed.py(l:73) - Train Worker James: [0/13 (0%)]      Loss: 0.013888
+2020-06-23 10:51:20,341 INFO summary.py(l:47) - Summary name Training Loss/James is illegal; using Training_Loss/James instead.
+2020-06-23 10:51:22,291 DEBUG mnist_fed.py(l:73) - Train Worker William: [0/13 (0%)]    Loss: 0.024668
+2020-06-23 10:51:26,228 INFO summary.py(l:47) - Summary name Training Loss/William is illegal; using Training_Loss/William instead.
+2020-06-23 10:51:27,169 DEBUG mnist_fed.py(l:73) - Train Worker Eve: [0/13 (0%)]        Loss: 0.036017
+2020-06-23 10:51:31,424 INFO summary.py(l:47) - Summary name Training Loss/Eve is illegal; using Training_Loss/Eve instead.
+2020-06-23 10:51:31,609 DEBUG mnist_fed.py(l:108) - Starting training round, batches [350, 400]
+2020-06-23 10:51:31,651 DEBUG mnist_fed.py(l:123) - At least one worker ran out of data, stopping.
+2020-06-23 10:51:40,612 INFO summary.py(l:47) - Summary name Testing Loss is illegal; using Testing_Loss instead.
+2020-06-23 10:51:40,613 DEBUG mnist_fed.py(l:145) - 
+
+2020-06-23 10:51:40,615 INFO mnist_fed.py(l:150) - Test set: Average loss: 0.0565, Accuracy: 9819/10000 (98%)
+
+(base) root@ec92d9571000:/workspace/PyGrid/a_dev# 
