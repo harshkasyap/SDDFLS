@@ -1,3 +1,7 @@
+import sys
+sys.path.append('/workspace/config')
+import loc
+
 import os
 from os import path
 import logging
@@ -20,7 +24,7 @@ from syft.workers.websocket_client import WebsocketClientWorker
 from syft.workers.virtual import VirtualWorker
 from syft.frameworks.torch.fl import utils
 
-from skimage.util import random_noise
+#from skimage.util import random_noise
 
 logger = logging.getLogger(__name__)
 LOG_INTERVAL = 25
@@ -227,7 +231,7 @@ def main():
 
     federated_train_loader = sy.FederatedDataLoader(
         datasets.MNIST(
-            "./dataset",
+            loc.dataset,
             train=True,
             download=True,
             transform=transforms.Compose(
@@ -244,7 +248,7 @@ def main():
 
     test_loader = torch.utils.data.DataLoader(
         datasets.MNIST(
-            "./dataset",
+            loc.dataset,
             train=False,
             transform=transforms.Compose(
                 [transforms.ToTensor(), transforms.Normalize((0.1307,), (0.3081,))]

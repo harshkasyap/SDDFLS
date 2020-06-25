@@ -125,7 +125,7 @@ services:
         ports:
         - 3005:3005
     pysyft:
-        image: openmined/pysyft-notebook
+        build: notebook-image
         networks: 
                 - my-net
         ports: 
