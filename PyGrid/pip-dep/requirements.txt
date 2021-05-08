@@ -1,6 +1,6 @@
 Click==7.0
 cryptography
-eventlet==0.24.1
+eventlet==0.31.0
 Flask==1.1.1
 Flask-Cors==3.0.7
 Flask-Executor==0.9.3
